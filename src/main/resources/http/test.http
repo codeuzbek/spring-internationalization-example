@@ -1,0 +1,16 @@
+### Simple
+GET localhost:8080/local/simple
+
+
+### Using Language Example 1
+GET localhost:8080/local/using
+Accept-Language: UZ
+
+### Using Language Example 2
+GET localhost:8080/local/using
+Accept-Language: EN
+
+
+### Profile Not Found
+GET localhost:8080/profile/not-found
+Accept-Language: EN
